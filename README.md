@@ -1,2 +1,4 @@
 # Codechef
-Solutions to CodeChef problems January 2021 - Division 3
+Solutions to CodeChef problems 
+> Practice 
+> January 2021 - Division 3

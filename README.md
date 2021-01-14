@@ -1,3 +1,7 @@
 # Codechef
-answers to CodeChef problems
-> January Long challenege 2021 Divison 3
+Solutions to CodeChef problems 
+Solved by me
+
+> Long challenege
+    > January 2021 - Division 3
+> Practice

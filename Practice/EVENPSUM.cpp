@@ -16,8 +16,7 @@ int main()
     {
         long double a, b;
         cin>>a>>b;
-        a /= 2;
-        cout<<ceil(a*b)<<endl;
+        cout<<ceil((a*b)/2)<<endl;
         
     }
     

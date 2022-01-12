@@ -7,7 +7,7 @@ using namespace std;
 
 int main() 
 {
-    fastio	
+    fastIO
 	
     testloop
     {
